@@ -53,7 +53,7 @@
   (pad "12" thru_hole circle (at -6.86 -3.3) (size 1.8 1.8) (drill 1.049985) (layers *.Cu *.Paste *.Mask) (tstamp 1e9ee0e8-90bb-4cfc-9602-3dda7c7dcdbc))
   (pad "SH" thru_hole circle (at 8.12 2.41) (size 2.35 2.35) (drill 1.7) (layers *.Cu *.Paste *.Mask) (tstamp 76544653-8f40-4cb9-a352-61049b82f6cc))
   (pad "SH" thru_hole circle (at -8.12 2.41) (size 2.35 2.35) (drill 1.7) (layers *.Cu *.Paste *.Mask) (tstamp 8f4a0986-b92e-4e15-8736-f56c80ed1de1))
-  (model "/home/ayourk/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/RJ45-TH_XKB_X12ADAB1A3DY1027.wrl"
+  (model "${KIPRJMOD}/Apple2Uthernet.3dshapes/RJ45-TH_XKB_X12ADAB1A3DY1027.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
