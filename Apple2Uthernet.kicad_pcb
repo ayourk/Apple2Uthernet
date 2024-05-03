@@ -2078,7 +2078,7 @@
       (net 2 "/W5100_TXLP") (pinfunction "3") (pintype "passive") (tstamp 6870ed8d-6d03-42ed-af4c-7244d4e3e709))
     (pad "4" smd rect (at -1.65 -1 180) (size 1.6 1.3) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "Earth") (pinfunction "4") (pintype "passive") (tstamp bfefb653-7943-4fed-ae44-47d23eae460c))
-    (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-4Pin_5.0x3.2mm.wrl"
+    (model "${KIPRJMOD}/Apple2Uthernet.3dshapes/Crystal_SMD_5032-4Pin_5.0x3.2mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
