@@ -7124,7 +7124,7 @@
     (property "PN_DigiKey" "P1.43KCCT-ND" (id 5) (at 281.94 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C101474" (id 6) (at 281.94 104.14 0)
+    (property "LCSC" "C336837" (id 6) (at 281.94 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "MPN" "ERJ-6ENF1431V" (id 7) (at 281.94 104.14 0)
